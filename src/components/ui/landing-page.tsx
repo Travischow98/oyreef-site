@@ -60,7 +60,7 @@ export function OyreefLanding() {
               Reef Restoration +<span className="text-emerald-600"> Autonomous Monitoring</span>
             </h1>
 
-            <p className="mt-6 text-lg text-gray-600">
+            <p className="mt-6 text-lg text-gray-900">
               Oyreef develops an integrated reef restoration and autonomous monitoring platform built around ReefLink — a
               modular eco-reef structure designed for rapid biocolonization and scalable deployment in degraded
               nutrient-rich waters.
@@ -104,7 +104,7 @@ export function OyreefLanding() {
           className="border rounded-2xl p-6 shadow-sm bg-white block hover:shadow-md transition"
         >
           <h3 className="text-xl font-semibold">Dumaguete, Philippines</h3>
-          <p className="mt-3 text-gray-600">
+          <p className="mt-3 text-gray-900">
             Reef restoration pilot using phased ReefLink deployment, baseline eDNA surveys and repeatable 360° autonomous
             monitoring.
           </p>
@@ -116,7 +116,7 @@ export function OyreefLanding() {
           className="border rounded-2xl p-6 shadow-sm bg-white block hover:shadow-md transition"
         >
           <h3 className="text-xl font-semibold">Hoi Ha, Hong Kong (WWF Site)</h3>
-          <p className="mt-3 text-gray-600">
+          <p className="mt-3 text-gray-900">
             Controlled restoration zone validating biodiversity uplift using AI-assisted species detection and eDNA
             metabarcoding.
           </p>
@@ -134,7 +134,7 @@ export function OyreefLanding() {
       <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-6">
         <div>
           <h2 className="text-3xl font-bold">Impact Metrics</h2>
-          <p className="mt-2 text-gray-600 max-w-2xl">
+          <p className="mt-2 text-gray-900 max-w-2xl">
             Our value is measurable. Oyreef combines reef restoration with repeatable monitoring to quantify ecological uplift.
           </p>
         </div>
@@ -147,48 +147,48 @@ export function OyreefLanding() {
       <div className="mt-10 grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
         {/* Carbon */}
         <div className="border rounded-2xl p-6 bg-slate-50 shadow-sm">
-          <div className="text-sm text-gray-600">Carbon Accumulation Potential</div>
+          <div className="text-sm text-gray-900">Carbon Accumulation Potential</div>
           <div className="mt-3 flex items-end gap-2">
             <div className="text-3xl font-bold">+12–35%</div>
             <div className="text-sm text-gray-500 mb-1">yr</div>
           </div>
-          <p className="mt-3 text-gray-600 text-sm leading-relaxed">
+          <p className="mt-3 text-gray-900 text-sm leading-relaxed">
             Increased benthic biomass and carbonate accretion via rapid biocolonization on ReefLink surfaces.
           </p>
         </div>
 
         {/* Fishery */}
         <div className="border rounded-2xl p-6 bg-slate-50 shadow-sm">
-          <div className="text-sm text-gray-600">Fishery Enhancement</div>
+          <div className="text-sm text-gray-900">Fishery Enhancement</div>
           <div className="mt-3 flex items-end gap-2">
             <div className="text-3xl font-bold">1.4–2.1×</div>
             <div className="text-sm text-gray-500 mb-1">CPUE</div>
           </div>
-          <p className="mt-3 text-gray-600 text-sm leading-relaxed">
+          <p className="mt-3 text-gray-900 text-sm leading-relaxed">
             Habitat complexity increases shelter and recruitment, supporting local fish assemblages and yield proxies.
           </p>
         </div>
 
         {/* Biodiversity */}
         <div className="border rounded-2xl p-6 bg-slate-50 shadow-sm">
-          <div className="text-sm text-gray-600">Biodiversity Recovery</div>
+          <div className="text-sm text-gray-900">Biodiversity Recovery</div>
           <div className="mt-3 flex items-end gap-2">
             <div className="text-3xl font-bold">+18–45%</div>
             <div className="text-sm text-gray-500 mb-1">richness</div>
           </div>
-          <p className="mt-3 text-gray-600 text-sm leading-relaxed">
+          <p className="mt-3 text-gray-900 text-sm leading-relaxed">
             Time-series monitoring tracks taxa return, trophic recruitment, and community stabilization.
           </p>
         </div>
 
         {/* AI + eDNA */}
         <div className="border rounded-2xl p-6 bg-slate-50 shadow-sm">
-          <div className="text-sm text-gray-600">AI + eDNA Validation</div>
+          <div className="text-sm text-gray-900">AI + eDNA Validation</div>
           <div className="mt-3 flex items-end gap-2">
             <div className="text-3xl font-bold">≥90%</div>
             <div className="text-sm text-gray-500 mb-1">agreement</div>
           </div>
-          <p className="mt-3 text-gray-600 text-sm leading-relaxed">
+          <p className="mt-3 text-gray-900 text-sm leading-relaxed">
             Cross-validation between AI vision counts and eDNA detections to reduce false positives/negatives.
           </p>
         </div>
@@ -207,7 +207,7 @@ export function OyreefLanding() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="border rounded-2xl p-6 bg-white shadow-sm">
                 <h3 className="text-xl font-semibold">Site Selection & Baseline Characterization</h3>
-                <p className="mt-3 text-gray-600 leading-relaxed">
+                <p className="mt-3 text-gray-900 leading-relaxed">
                   Candidate sites will be screened using depth, hydrodynamics, sedimentation profiles, and aquaculture
                   pressure. Drop-camera transects and diver validation will define baseline communities, followed by eDNA
                   sampling to characterize cryptic taxa and microfaunal diversity.
@@ -216,7 +216,7 @@ export function OyreefLanding() {
 
               <div className="border rounded-2xl p-6 bg-white shadow-sm">
                 <h3 className="text-xl font-semibold">Two-Phase Deployment Strategy</h3>
-                <p className="mt-3 text-gray-600 leading-relaxed">
+                <p className="mt-3 text-gray-900 leading-relaxed">
                   Reef units are first cultivated in the photic zone (0–5 m), accelerating settlement and early
                   succession via turbulence and larval flux. Once biomass accumulates, units will be lowered to the
                   benthos to trigger habitat transfer and substrate regeneration. Time-series surveys track recolonization,
@@ -226,7 +226,7 @@ export function OyreefLanding() {
 
               <div className="border rounded-2xl p-6 bg-white shadow-sm">
                 <h3 className="text-xl font-semibold">Autonomous Monitoring — Ocean Hummingbird System</h3>
-                <p className="mt-3 text-gray-600 leading-relaxed">
+                <p className="mt-3 text-gray-900 leading-relaxed">
                   A floating grid-based robotic camera carrier moves along an XY-grid platform on the surface and lowers a
                   360° camera at predefined coordinates for repeatable, non-fouling observation. The system is modular and
                   scalable, enabling broader coverage by increasing grid span or adding units.
@@ -235,7 +235,7 @@ export function OyreefLanding() {
 
               <div className="border rounded-2xl p-6 bg-white shadow-sm">
                 <h3 className="text-xl font-semibold">AI-eDNA Monitoring Pipeline</h3>
-                <p className="mt-3 text-gray-600 leading-relaxed">
+                <p className="mt-3 text-gray-900 leading-relaxed">
                   All imagery feeds into custom AI models for species detection, abundance estimation, size-class
                   distribution, and behavior metrics. eDNA metabarcoding detects cryptic taxa and validates biodiversity
                   uplift.
@@ -253,7 +253,7 @@ export function OyreefLanding() {
             <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-4">
               <div>
                 <h2 className="text-3xl font-bold">Impact Metrics</h2>
-                <p className="mt-3 text-gray-600 max-w-2xl leading-relaxed">
+                <p className="mt-3 text-gray-900 max-w-2xl leading-relaxed">
                   Oyreef’s value is measurable. We track ecological recovery and validate outcomes using repeatable
                   monitoring + AI vision + eDNA.
                 </p>
@@ -272,9 +272,9 @@ export function OyreefLanding() {
                 <div className="text-sm font-medium text-gray-700">Carbon Accumulation Potential</div>
                 <div className="mt-3 flex items-baseline gap-2">
                   <div className="text-4xl font-bold text-gray-900">+18%</div>
-                  <div className="text-sm text-gray-500">YoY</div>
+                  <div className="text-sm text-gray-900">YoY</div>
                 </div>
-                <p className="mt-3 text-sm text-gray-600 leading-relaxed">
+                <p className="mt-3 text-sm text-gray-900 leading-relaxed">
                   Estimated increase in benthic carbon retention via habitat complexity + biogenic accretion.
                 </p>
               </div>
@@ -283,9 +283,9 @@ export function OyreefLanding() {
                 <div className="text-sm font-medium text-gray-700">Fishery Enhancement</div>
                 <div className="mt-3 flex items-baseline gap-2">
                   <div className="text-4xl font-bold text-gray-900">2.4×</div>
-                  <div className="text-sm text-gray-500">biomass</div>
+                  <div className="text-sm text-gray-900">biomass</div>
                 </div>
-                <p className="mt-3 text-sm text-gray-600 leading-relaxed">
+                <p className="mt-3 text-sm text-gray-900 leading-relaxed">
                   Expected uplift in local fish biomass from shelter + feeding habitat creation.
                 </p>
               </div>
@@ -294,9 +294,9 @@ export function OyreefLanding() {
                 <div className="text-sm font-medium text-gray-700">Biodiversity Recovery</div>
                 <div className="mt-3 flex items-baseline gap-2">
                   <div className="text-4xl font-bold text-gray-900">+35</div>
-                  <div className="text-sm text-gray-500">species</div>
+                  <div className="text-sm text-gray-900">species</div>
                 </div>
-                <p className="mt-3 text-sm text-gray-600 leading-relaxed">
+                <p className="mt-3 text-sm text-gray-900 leading-relaxed">
                   Increase in detected taxa across time-series surveys (macrofauna + cryptic taxa).
                 </p>
               </div>
@@ -305,16 +305,16 @@ export function OyreefLanding() {
                 <div className="text-sm font-medium text-gray-700">AI + eDNA Validation</div>
                 <div className="mt-3 flex items-baseline gap-2">
                   <div className="text-4xl font-bold text-gray-900">95%</div>
-                  <div className="text-sm text-gray-500">coverage</div>
+                  <div className="text-sm text-gray-900">coverage</div>
                 </div>
-                <p className="mt-3 text-sm text-gray-600 leading-relaxed">
+                <p className="mt-3 text-sm text-gray-900 leading-relaxed">
                   Multi-sensor validation: 360° imagery + species detection + eDNA metabarcoding.
                 </p>
               </div>
             </div>
 
             <div className="mt-8 flex flex-col md:flex-row gap-3 md:items-center md:justify-between">
-              <p className="text-xs text-gray-500">
+              <p className="text-xs text-gray-900">
                 Note: Replace placeholders with measured baselines after the first deployment cycle.
               </p>
 
@@ -335,7 +335,7 @@ export function OyreefLanding() {
           <div className="bg-white border rounded-3xl p-8 shadow-sm grid md:grid-cols-2 gap-12">
             <div>
               <h2 className="text-3xl font-bold">Contact Us</h2>
-              <p className="mt-4 text-gray-600 leading-relaxed">
+              <p className="mt-4 text-gray-900 leading-relaxed">
                 Tell us about your site, partnership interest, or deployment needs. We’ll reply within 1–2 business days.
               </p>
 
@@ -447,7 +447,7 @@ export function OyreefLanding() {
                     ✅
                   </div>
                   <h3 className="mt-4 text-2xl font-semibold">Thanks — we got it.</h3>
-                  <p className="mt-2 text-gray-600 max-w-sm">We’ll reply within 1–2 business days.</p>
+                  <p className="mt-2 text-gray-900 max-w-sm">We’ll reply within 1–2 business days.</p>
 
                   <button
                     type="button"
