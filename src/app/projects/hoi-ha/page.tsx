@@ -3,7 +3,7 @@ import Link from "next/link"
 
 export default function HoiHaProjectPage() {
   return (
-    <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
+    <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 text-slate-900">
       {/* Top bar */}
       <header className="border-b bg-white/80 backdrop-blur">
         <div className="max-w-5xl mx-auto px-8 py-5 flex items-center justify-between">

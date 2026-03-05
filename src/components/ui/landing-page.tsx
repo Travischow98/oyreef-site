@@ -17,7 +17,7 @@ export function OyreefLanding() {
   })
 
   return (
-    <div id="top" className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
+    <div id="top" className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 text-slate-900">
       {/* Header */}
       <header className="sticky top-0 z-50 bg-white/80 backdrop-blur border-b">
         <div className="max-w-6xl mx-auto px-8 py-4 flex items-center justify-between">
