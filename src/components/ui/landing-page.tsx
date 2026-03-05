@@ -28,7 +28,7 @@ export function OyreefLanding() {
             <span className="text-lg font-semibold">Oyreef</span>
           </a>
 
-          <nav className="hidden md:flex items-center gap-6 text-sm text-gray-700">
+          <nav className="hidden md:flex items-center gap-6 text-sm text-gray-900">
             <a href="#projects" className="hover:text-emerald-700 transition">
               Projects
             </a>
@@ -139,7 +139,7 @@ export function OyreefLanding() {
           </p>
         </div>
 
-        <div className="text-sm text-gray-500">
+        <div className="text-sm text-gray-900">
           *Indicative metrics — tuned per site baseline and deployment design.
         </div>
       </div>
@@ -150,7 +150,7 @@ export function OyreefLanding() {
           <div className="text-sm text-gray-900">Carbon Accumulation Potential</div>
           <div className="mt-3 flex items-end gap-2">
             <div className="text-3xl font-bold">+12–35%</div>
-            <div className="text-sm text-gray-500 mb-1">yr</div>
+            <div className="text-sm text-gray-900 mb-1">yr</div>
           </div>
           <p className="mt-3 text-gray-900 text-sm leading-relaxed">
             Increased benthic biomass and carbonate accretion via rapid biocolonization on ReefLink surfaces.
@@ -162,7 +162,7 @@ export function OyreefLanding() {
           <div className="text-sm text-gray-900">Fishery Enhancement</div>
           <div className="mt-3 flex items-end gap-2">
             <div className="text-3xl font-bold">1.4–2.1×</div>
-            <div className="text-sm text-gray-500 mb-1">CPUE</div>
+            <div className="text-sm text-gray-900 mb-1">CPUE</div>
           </div>
           <p className="mt-3 text-gray-900 text-sm leading-relaxed">
             Habitat complexity increases shelter and recruitment, supporting local fish assemblages and yield proxies.
@@ -174,7 +174,7 @@ export function OyreefLanding() {
           <div className="text-sm text-gray-900">Biodiversity Recovery</div>
           <div className="mt-3 flex items-end gap-2">
             <div className="text-3xl font-bold">+18–45%</div>
-            <div className="text-sm text-gray-500 mb-1">richness</div>
+            <div className="text-sm text-gray-900 mb-1">richness</div>
           </div>
           <p className="mt-3 text-gray-900 text-sm leading-relaxed">
             Time-series monitoring tracks taxa return, trophic recruitment, and community stabilization.
@@ -186,7 +186,7 @@ export function OyreefLanding() {
           <div className="text-sm text-gray-900">AI + eDNA Validation</div>
           <div className="mt-3 flex items-end gap-2">
             <div className="text-3xl font-bold">≥90%</div>
-            <div className="text-sm text-gray-500 mb-1">agreement</div>
+            <div className="text-sm text-gray-900 mb-1">agreement</div>
           </div>
           <p className="mt-3 text-gray-900 text-sm leading-relaxed">
             Cross-validation between AI vision counts and eDNA detections to reduce false positives/negatives.
@@ -259,7 +259,7 @@ export function OyreefLanding() {
                 </p>
               </div>
 
-              <div className="text-sm text-gray-500">
+              <div className="text-sm text-gray-900">
                 <span className="inline-flex items-center gap-2 rounded-full border px-3 py-1">
                   <span className="h-2 w-2 rounded-full bg-emerald-500" />
                   Metrics shown are initial targets (placeholder)
@@ -269,7 +269,7 @@ export function OyreefLanding() {
 
             <div className="mt-10 grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="rounded-2xl border p-6 bg-slate-50">
-                <div className="text-sm font-medium text-gray-700">Carbon Accumulation Potential</div>
+                <div className="text-sm font-medium text-gray-900">Carbon Accumulation Potential</div>
                 <div className="mt-3 flex items-baseline gap-2">
                   <div className="text-4xl font-bold text-gray-900">+18%</div>
                   <div className="text-sm text-gray-900">YoY</div>
@@ -280,7 +280,7 @@ export function OyreefLanding() {
               </div>
 
               <div className="rounded-2xl border p-6 bg-slate-50">
-                <div className="text-sm font-medium text-gray-700">Fishery Enhancement</div>
+                <div className="text-sm font-medium text-gray-900">Fishery Enhancement</div>
                 <div className="mt-3 flex items-baseline gap-2">
                   <div className="text-4xl font-bold text-gray-900">2.4×</div>
                   <div className="text-sm text-gray-900">biomass</div>
@@ -291,7 +291,7 @@ export function OyreefLanding() {
               </div>
 
               <div className="rounded-2xl border p-6 bg-slate-50">
-                <div className="text-sm font-medium text-gray-700">Biodiversity Recovery</div>
+                <div className="text-sm font-medium text-gray-900">Biodiversity Recovery</div>
                 <div className="mt-3 flex items-baseline gap-2">
                   <div className="text-4xl font-bold text-gray-900">+35</div>
                   <div className="text-sm text-gray-900">species</div>
@@ -302,7 +302,7 @@ export function OyreefLanding() {
               </div>
 
               <div className="rounded-2xl border p-6 bg-slate-50">
-                <div className="text-sm font-medium text-gray-700">AI + eDNA Validation</div>
+                <div className="text-sm font-medium text-gray-900">AI + eDNA Validation</div>
                 <div className="mt-3 flex items-baseline gap-2">
                   <div className="text-4xl font-bold text-gray-900">95%</div>
                   <div className="text-sm text-gray-900">coverage</div>
@@ -339,7 +339,7 @@ export function OyreefLanding() {
                 Tell us about your site, partnership interest, or deployment needs. We’ll reply within 1–2 business days.
               </p>
 
-              <div className="mt-8 space-y-3 text-gray-700">
+              <div className="mt-8 space-y-3 text-gray-900">
                 <div>
                   <span className="font-semibold">Email:</span> smartfishery.hk@gmail.com
                 </div>
@@ -467,7 +467,7 @@ export function OyreefLanding() {
       </section>
 
       {/* Footer */}
-      <footer className="py-10 text-center text-gray-500 text-sm">
+      <footer className="py-10 text-center text-gray-900 text-sm">
         © {new Date().getFullYear()} Oyreef. All rights reserved.
       </footer>
     </div>
